@@ -24,11 +24,11 @@ January 2023 - Current
 
 **DevRel resources:**
 
+- Video Content Creation: [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
 - Blog post Creation: [Talking with your PDFs with Next 15 and OpenAI](https://emmanuelorozco.com/blog/chat-with-your-pdfs-with-next-15-and-open-ai)
 - Blog post Creation: [Expand ChatGPT knowledge with you own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
-- Video Content Creation: [What is blockchain?](https://www.youtube.com/watch?v=Hg3MvFSWK3E)
 - Award Host - [InnerSource Awards 2024](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
-- Conference IS Summit - [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
+- Conference IS Summit [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
 - Created software engineering course: [Front End for python devs course](https://indie-rok.github.io/front-end-for-python-devs/)
 
 ### Kibo University
