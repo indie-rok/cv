@@ -1,3 +1,31 @@
-# cv
+# CV
 
-mdpdf emm.md --style styles.css --border-left=38 --border-right=38 --border-top=48 --border--bottom=48 --format=Legal   --debug
+Emmanuel Orozco's CV - Markdown to PDF builder.
+
+## Setup
+
+```sh
+npm install
+```
+
+## Build PDFs
+
+```sh
+# Build all CVs
+npm run build
+
+# Build individually
+npm run build:dev-rel
+npm run build:tech
+```
+
+Generated PDFs are output to `dist/`.
+
+## Project Structure
+
+```
+src/        - Markdown CV sources
+styles/     - CSS stylesheets
+html/       - Legacy HTML versions
+dist/       - Generated PDFs (gitignored)
+```

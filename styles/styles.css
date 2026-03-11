@@ -1,4 +1,37 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-ExtraBold.ttf") format("truetype");
+}
 
 html {
   font-size: 8px;
