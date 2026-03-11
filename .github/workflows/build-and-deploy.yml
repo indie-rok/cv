@@ -34,19 +34,17 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build PDFs
+      - name: Build PDFs and HTML
         run: npm run build
 
-      - name: Verify PDFs exist
-        run: ls -la dist/*.pdf
+      - name: Verify build output
+        run: ls -la dist/*.pdf html/*.html
 
       # --- GitHub Pages: HTML + styles ---
       - name: Prepare Pages content
         run: |
           mkdir -p _site
           cp html/*.html _site/
-          cp -r styles _site/styles
-          cp dist/*.pdf _site/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

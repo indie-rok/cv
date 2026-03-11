@@ -4,11 +4,14 @@
   "private": true,
   "description": "Emmanuel Orozco's CV - Markdown to PDF builder",
   "scripts": {
-    "build": "node scripts/build.js",
-    "build:dev-rel": "node scripts/build.js dev-rel",
-    "build:tech": "node scripts/build.js tech"
+    "build": "node scripts/build.js && node scripts/build-html.js",
+    "build:pdf": "node scripts/build.js",
+    "build:html": "node scripts/build-html.js",
+    "build:dev-rel": "node scripts/build.js dev-rel && node scripts/build-html.js dev-rel",
+    "build:tech": "node scripts/build.js tech && node scripts/build-html.js tech"
   },
   "devDependencies": {
+    "marked": "^17.0.4",
     "mdpdf": "^3.1.0"
   }
 }
