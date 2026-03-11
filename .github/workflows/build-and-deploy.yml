@@ -1,0 +1,81 @@
+name: Build PDFs & Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      # Chrome for Puppeteer/mdpdf
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build PDFs
+        run: npm run build
+
+      - name: Verify PDFs exist
+        run: ls -la dist/*.pdf
+
+      # --- GitHub Pages: HTML + styles ---
+      - name: Prepare Pages content
+        run: |
+          mkdir -p _site
+          cp html/*.html _site/
+          cp -r styles _site/styles
+          cp dist/*.pdf _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      # --- GitHub Release: PDFs ---
+      - name: Upload PDFs to latest release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest CV
+          body: |
+            Auto-generated CVs from the latest `main` branch.
+
+            **Download:**
+            - [dev-rel.pdf](https://github.com/${{ github.repository }}/releases/latest/download/dev-rel.pdf)
+            - [tech.pdf](https://github.com/${{ github.repository }}/releases/latest/download/tech.pdf)
+          files: dist/*.pdf
+          make_latest: true
+          prerelease: false
+
+  deploy-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

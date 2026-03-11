@@ -2,35 +2,35 @@
   font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
-  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-Regular.ttf") format("truetype");
+  src: url("FONTDIR/NotoSans-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Noto Sans";
   font-style: italic;
   font-weight: 400;
-  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-Italic.ttf") format("truetype");
+  src: url("FONTDIR/NotoSans-Italic.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Noto Sans";
   font-style: normal;
   font-weight: 600;
-  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-SemiBold.ttf") format("truetype");
+  src: url("FONTDIR/NotoSans-SemiBold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Noto Sans";
   font-style: normal;
   font-weight: 700;
-  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-Bold.ttf") format("truetype");
+  src: url("FONTDIR/NotoSans-Bold.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Noto Sans";
   font-style: normal;
   font-weight: 800;
-  src: url("file:///Users/emmanuelorozco/Projects/html/cv/styles/fonts/NotoSans-ExtraBold.ttf") format("truetype");
+  src: url("FONTDIR/NotoSans-ExtraBold.ttf") format("truetype");
 }
 
 html {
