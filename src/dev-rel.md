@@ -8,7 +8,8 @@
 
 ### Leroy Merlin
 
-_Developer Advocate_ |
+_Developer Advocate_
+
 January 2023 - Current
 
 **Project: Developer Experience**
@@ -34,7 +35,8 @@ January 2023 - Current
 
 ### Kibo University
 
-_Faculty Professor_ |
+_Faculty Professor_
+
 January 2023 - January 2024
 
 - Teaching weekly university-level classes about front-end development to 50 students
@@ -43,7 +45,8 @@ January 2023 - January 2024
 
 ### Partoo
 
-_Tech Lead_ |
+_Tech Lead_
+
 March 2022 - January 2023
 
 - Mentored a team of 3 people to develop new features on an existing app
@@ -53,7 +56,8 @@ March 2022 - January 2023
 
 ### Wild Code School
 
-_Lead Teacher Software Engineering_ |
+_Lead Teacher Software Engineering_
+
 March 2021 - March 2022
 
 - Teaching full-stack software engineering curriculum to 15 people class
@@ -62,7 +66,8 @@ March 2021 - March 2022
 
 ### Trainline
 
-_Software Engineer_ |
+_Software Engineer_
+
 February 2020 - March 2021
 
 - Built new functionalities for mobile/desktop web applications
@@ -71,7 +76,8 @@ February 2020 - March 2021
 
 ### Kapten
 
-_Software Engineer_ |
+_Software Engineer_
+
 March 2019 - September 2019
 
 - Created highly scalable front-end/back-end services following the company's best practices (React/Express/Mongo)
@@ -80,7 +86,8 @@ March 2019 - September 2019
 
 ### Crowdbotics
 
-_Software Engineer Consultant_ |
+_Software Engineer Consultant_
+
 Jun 2018 - Jan 2020
 
 - Fast MVP prototype and creation of different apps for multiple clients / technologies
@@ -88,7 +95,8 @@ Jun 2018 - Jan 2020
 
 ### Laboratoria
 
-_Sr. Teacher & Web Developer_ |
+_Sr. Teacher & Web Developer_
+
 Jan 2017 - Jun 2018
 
 - Teaching JavaScript curricula to 100 people class
@@ -97,7 +105,8 @@ Jan 2017 - Jun 2018
 
 ### Pachuco Digital
 
-_Software Engineer_ |
+_Software Engineer_
+
 Febrary 2013 - November 2016
 
 - Developed REST API for Riot Games global cup app.
