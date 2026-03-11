@@ -41,6 +41,25 @@ const TEMPLATE = `<!DOCTYPE html>
       margin: 0 auto;
       padding: 3rem 2.5rem;
       background: #fff;
+      position: relative;
+    }
+
+    .download-pdf {
+      position: absolute;
+      top: 2rem;
+      right: 2.5rem;
+      font-size: 0.8rem;
+      color: #fff;
+      background: #2DCC71;
+      padding: 0.4rem 0.9rem;
+      border-radius: 3px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .download-pdf:hover {
+      opacity: 0.85;
+      text-decoration: none;
     }
 
     @media (min-width: 800px) {
@@ -183,9 +202,17 @@ const TEMPLATE = `<!DOCTYPE html>
       margin: 1.5rem 0;
     }
   </style>
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "vua5txxv2i");
+  </script>
 </head>
 <body>
   <article class="cv">
+    {{DOWNLOAD_LINK}}
     {{CONTENT}}
   </article>
 </body>
@@ -202,7 +229,13 @@ function buildHtml(mdFile) {
   const titleMatch = md.match(/^#\s+(.+)/m);
   const title = titleMatch ? `${titleMatch[1]} - CV` : "CV";
 
-  const html = TEMPLATE.replace("{{TITLE}}", title).replace("{{CONTENT}}", content);
+  const pdfUrl = `https://github.com/indie-rok/cv/releases/latest/download/${name}.pdf`;
+  const downloadLink = `<a class="download-pdf" href="${pdfUrl}" download>Download PDF ↓</a>`;
+
+  const html = TEMPLATE
+    .replace("{{TITLE}}", title)
+    .replace("{{DOWNLOAD_LINK}}", downloadLink)
+    .replace("{{CONTENT}}", content);
 
   const outPath = path.join(OUT_DIR, `${name}.html`);
   fs.writeFileSync(outPath, html);

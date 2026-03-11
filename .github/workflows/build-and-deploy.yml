@@ -45,6 +45,8 @@ jobs:
         run: |
           mkdir -p _site
           cp html/*.html _site/
+          cp html/CNAME _site/
+          cp _site/dev-rel.html _site/index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
