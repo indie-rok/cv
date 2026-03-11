@@ -80,7 +80,7 @@ const TEMPLATE = `<!DOCTYPE html>
     }
 
     h1 + p + p a {
-      color: #2ecc71;
+      color: #2DCC71;
     }
 
     /* ---- Section headers (h2) ---- */
@@ -104,7 +104,7 @@ const TEMPLATE = `<!DOCTYPE html>
       left: 0;
       width: 48px;
       height: 3px;
-      background: #2ecc71;
+      background: #2DCC71;
     }
 
     /* ---- Company names (h3) ---- */
@@ -134,9 +134,11 @@ const TEMPLATE = `<!DOCTYPE html>
 
     /* Date line (paragraph after role) */
     h3 + p + p {
-      color: #888;
-      font-size: 0.9rem;
-      margin-bottom: 0.5rem;
+      color: #777;
+      font-size: 0.85rem;
+      font-style: italic;
+      margin-top: 0.1rem;
+      margin-bottom: 0.75rem;
     }
 
     /* ---- Body text ---- */
@@ -151,7 +153,7 @@ const TEMPLATE = `<!DOCTYPE html>
     }
 
     a {
-      color: #2ecc71;
+      color: #2DCC71;
       text-decoration: underline;
     }
 
@@ -171,7 +173,7 @@ const TEMPLATE = `<!DOCTYPE html>
     }
 
     li::marker {
-      color: #2ecc71;
+      color: #2DCC71;
     }
 
     /* ---- Utility ---- */
