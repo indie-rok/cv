@@ -80,7 +80,7 @@ const TEMPLATE = `<!DOCTYPE html>
     }
 
     h1 + p + p a {
-      color: #222;
+      color: #2ecc71;
     }
 
     /* ---- Section headers (h2) ---- */
@@ -111,13 +111,13 @@ const TEMPLATE = `<!DOCTYPE html>
     h3 {
       font-size: 1.1rem;
       font-weight: 700;
-      color: #222;
+      color: #2274a5;
       margin-top: 1.25rem;
       margin-bottom: 0.1rem;
     }
 
     h3 a {
-      color: #222;
+      color: #2274a5;
       text-decoration: underline;
     }
 
@@ -146,13 +146,13 @@ const TEMPLATE = `<!DOCTYPE html>
     }
 
     strong {
-      color: #333;
+      color: #222;
       font-weight: 600;
     }
 
     a {
-      color: #16a085;
-      text-decoration: none;
+      color: #2ecc71;
+      text-decoration: underline;
     }
 
     a:hover {
