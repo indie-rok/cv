@@ -2,6 +2,16 @@
 
 Emmanuel Orozco's CV - Markdown to PDF builder.
 
+## Download
+
+- [dev-rel.pdf](https://github.com/indie-rok/cv/releases/latest/download/dev-rel.pdf)
+- [tech.pdf](https://github.com/indie-rok/cv/releases/latest/download/tech.pdf)
+
+## View Online
+
+- [dev-rel.html](https://indie-rok.github.io/cv/dev-rel.html)
+- [tech.html](https://indie-rok.github.io/cv/tech.html)
+
 ## Setup
 
 ```sh
@@ -25,7 +35,15 @@ Generated PDFs are output to `dist/`.
 
 ```
 src/        - Markdown CV sources
-styles/     - CSS stylesheets
-html/       - Legacy HTML versions
+styles/     - CSS stylesheets + local fonts
+html/       - HTML versions
 dist/       - Generated PDFs (gitignored)
+scripts/    - Build tooling
 ```
+
+## CI/CD
+
+On push to `main`, GitHub Actions automatically:
+1. Builds PDFs from markdown
+2. Deploys HTML to GitHub Pages
+3. Uploads PDFs to the `latest` release
