@@ -132,14 +132,6 @@ const TEMPLATE = `<!DOCTYPE html>
       color: #555;
     }
 
-    /* Date line (paragraph after role) */
-    h3 + p + p {
-      color: #777;
-      font-size: 0.85rem;
-      font-style: italic;
-      margin-top: 0.1rem;
-      margin-bottom: 0.75rem;
-    }
 
     /* ---- Body text ---- */
     p {
