@@ -1,8 +1,8 @@
 # Emmanuel Orozco
 
-**Developer Advocate | AI Community Builder | Software Engineer**
+**Developer Advocate | Lead Software Engineer | Professor**
 
-[yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | EN · FR · ES
+[yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/)
 
 ## Professional Experience:
 
@@ -14,9 +14,8 @@ January 2023 - Current
 
 **Project: Developer Experience**
 
-- Coordinate, organize and launch developer feedback campaigns reaching ~5,000 developers to improve developer experience
-- Creation of developer training content (video, docs, blog posts)
-- Developer training on different topics (TypeScript, AI, Public Speaking)
+- Creation of developer training content (video, docs, blog posts).
+- Developer training on different topics (Typescript, AI, Public Speaking)
 - Creation of Technical Documentation to help engineers understand products faster
 
 **Project: Developer Advocacy**
@@ -29,12 +28,10 @@ January 2023 - Current
 
 - Video Content Creation: [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
 - Blog post Creation: [Talking with your PDFs with Next 15 and OpenAI](https://emmanuelorozco.com/blog/chat-with-your-pdfs-with-next-15-and-open-ai)
-- Blog post Creation: [Expand ChatGPT knowledge with your own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
+- Blog post Creation: [Expand ChatGPT knowledge with you own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
 - Award Host - [InnerSource Awards 2024](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
 - Conference IS Summit [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
 - Created software engineering course: [Front End for python devs course](https://indie-rok.github.io/front-end-for-python-devs/)
-- Conference talk: [Building with AI Agents](https://emmanuelorozco.com/slides/agents-talk)
-- Conference talk: [Whoops, I hacked my company — npm supply chain security](https://emmanuelorozco.com/slides/jfrog-talk)
 
 ### Kibo University
 
@@ -110,7 +107,7 @@ Jan 2017 - Jun 2018
 
 _Software Engineer_
 
-February 2013 - November 2016
+Febrary 2013 - November 2016
 
 - Developed REST API for Riot Games global cup app.
 - Developed tailored CMS to handle different clients' content.
@@ -118,22 +115,20 @@ February 2013 - November 2016
 
 ## Projects
 
-### [Hold My Club](https://holdmyclub.com/) — Founder & Community Organizer
+### [EloquentCoach.ai](https://www.eloquentcoach.ai/)
 
-- Founded a Paris tech & social community, organizing weekly in-person events end to end (Luma, Instagram, newsletter)
-- Host of the **AI Builders Night** series: recurring AI conferences and live-coding sessions on AI agents, LLM apps and agentic workflows (300+ RSVPs per edition)
-- Give regular non-recorded AI talks: agent architectures, loop engineering, building products with LLMs
-- Built the community's own AI tooling: automated event analytics, content pipelines and an AI matching service for attendees
+- Public speaking coaching app ($500 MRR)
+- Creation of development, DevOps, and marketing plan to release app and generate revenue and traction
 
 ## Skills:
 
-- AI engineering: LLM apps, AI agents, agentic workflows (OpenAI, Nous Research, MCP)
 - Video content creation and production (Final Cut Pro, Photoshop)
-- Community creation and management, online and offline (Luma, MeetUp, Discord, Slack)
-- Excellent written and verbal communication skills in 3 languages (EN, FR, and ES)
+- Community creation and management (online and offline) (MeetUp, Discord, Slack)
+- Excellent written and verbal communication skills in 3 different languages (EN, FR, and ES)
 - Ability to deconstruct and explain highly technical concepts for tech & non-technical audiences
 - Creation of marketing plans and lead generation for technical B2C and B2B markets
-- Software Engineer (TypeScript, Python, Ruby, SQL, AWS)
+- Software Engineer (Typescript, Python, Ruby, SQL, AWS)
+- Blockchain Developer (Solidity, Ethereum, Smart Contracts, Web3.js)
 
 ## Academic Background:
 
