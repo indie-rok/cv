@@ -1,8 +1,8 @@
 # Emmanuel Orozco
 
-**Developer Advocate | Lead Software Engineer | Professor**
+**Developer Advocate | AI Community Builder | Software Engineer**
 
-[yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/)
+Paris, France | [yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | [GitHub](https://github.com/indie-rok) | Speaks: 🇺🇸 - 🇫🇷 - 🇪🇸
 
 ## Professional Experience:
 
@@ -14,24 +14,25 @@ January 2023 - Current
 
 **Project: Developer Experience**
 
-- Creation of developer training content (video, docs, blog posts).
-- Developer training on different topics (Typescript, AI, Public Speaking)
-- Creation of Technical Documentation to help engineers understand products faster
+- Coordinate, organize and launch feedback campaigns with a community of ~5,000 developers to improve internal developer products
+- Creation of developer training content (video, docs, blog posts)
+- Developer training on different topics (TypeScript, AI, Public Speaking)
+- Review existing technical documentation and provide pedagogical feedback to make products easier to understand and adopt
 
 **Project: Developer Advocacy**
 
-- Online and in-person developer community creation and management (TechTalks, WebSummit)
+- Organize online and in-person developer events: TechBubbles, [DevSummit](https://www.adeo.com/en/press/dev-summit/)
 - In-person event host of 500 people event [DevSummit](https://www.adeo.com/en/press/dev-summit/)
-- Attended external events (Devoxx Paris, DevFest Lille) to evangelize developers on the digital transformation of LM
+- Attended external events ([Devoxx Paris](https://www.devoxx.fr/), [DevFest Lille](https://devfest.gdglille.org/)) to evangelize developers on the digital transformation of LM
 
 **DevRel resources:**
 
+- Conference talk: [Building with AI Agents](https://emmanuelorozco.com/slides/agents-talk)
+- Conference talk: [Whoops, I hacked my company — npm supply chain security](https://emmanuelorozco.com/slides/jfrog-talk)
 - Video Content Creation: [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
-- Blog post Creation: [Talking with your PDFs with Next 15 and OpenAI](https://emmanuelorozco.com/blog/chat-with-your-pdfs-with-next-15-and-open-ai)
-- Blog post Creation: [Expand ChatGPT knowledge with you own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
+- Blog post Creation: [Expand ChatGPT knowledge with your own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
 - Award Host - [InnerSource Awards 2024](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
 - Conference IS Summit [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
-- Created software engineering course: [Front End for python devs course](https://indie-rok.github.io/front-end-for-python-devs/)
 
 ### Kibo University
 
@@ -107,7 +108,7 @@ Jan 2017 - Jun 2018
 
 _Software Engineer_
 
-Febrary 2013 - November 2016
+February 2013 - November 2016
 
 - Developed REST API for Riot Games global cup app.
 - Developed tailored CMS to handle different clients' content.
@@ -115,20 +116,22 @@ Febrary 2013 - November 2016
 
 ## Projects
 
-### [EloquentCoach.ai](https://www.eloquentcoach.ai/)
+### [Hold My Club](https://holdmyclub.com/) | Founder & Community Organizer
 
-- Public speaking coaching app ($500 MRR)
-- Creation of development, DevOps, and marketing plan to release app and generate revenue and traction
+- Founded a Paris tech & social community, organizing weekly in-person events end to end
+- Host of the [AI Builders Night](https://luma.com/be1ld1ai) series: recurring AI conferences and live-coding sessions on AI agents, LLM apps and agentic workflows (300+ RSVPs)
+- Give regular AI talks: [agent architectures](https://emmanuelorozco.com/slides/agents-talk), [loop engineering](https://emmanuelorozco.com/slides/loop-engineering), [building products with LLMs](https://emmanuelorozco.com/slides/marketing-talk)
+- Built the community's own AI agent tooling: autonomous agents that collect event analytics, contact venue owners, auto-post on Facebook, generate content drafts, and match attendees by interests.
 
 ## Skills:
 
+- AI engineering: LLM orchestration, AI agents, agentic workflows
 - Video content creation and production (Final Cut Pro, Photoshop)
-- Community creation and management (online and offline) (MeetUp, Discord, Slack)
-- Excellent written and verbal communication skills in 3 different languages (EN, FR, and ES)
+- Community creation and management, online and offline (Luma, MeetUp, Discord, Slack)
+- Excellent written and verbal communication skills in 3 languages (EN, FR, and ES)
 - Ability to deconstruct and explain highly technical concepts for tech & non-technical audiences
 - Creation of marketing plans and lead generation for technical B2C and B2B markets
-- Software Engineer (Typescript, Python, Ruby, SQL, AWS)
-- Blockchain Developer (Solidity, Ethereum, Smart Contracts, Web3.js)
+- Software Engineer (TypeScript, Python, Ruby, SQL, AWS)
 
 ## Academic Background:
 

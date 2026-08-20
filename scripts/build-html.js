@@ -223,7 +223,9 @@ function buildHtml(mdFile) {
   const mdPath = path.join(SRC_DIR, mdFile);
   const md = fs.readFileSync(mdPath, "utf-8");
 
-  const content = marked.parse(md);
+  let content = marked.parse(md);
+  // Open all links in a new tab
+  content = content.replace(/<a href="/g, '<a target="_blank" rel="noopener" href="');
 
   // Extract title from first h1
   const titleMatch = md.match(/^#\s+(.+)/m);
