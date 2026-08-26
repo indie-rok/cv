@@ -8,7 +8,8 @@
     "build:pdf": "node scripts/build.js",
     "build:html": "node scripts/build-html.js",
     "build:dev-rel": "node scripts/build.js dev-rel && node scripts/build-html.js dev-rel",
-    "build:tech": "node scripts/build.js tech && node scripts/build-html.js tech"
+    "build:tech": "node scripts/build.js tech && node scripts/build-html.js tech",
+    "build:anthropic": "node scripts/build.js anthropic && node scripts/build-html.js anthropic"
   },
   "devDependencies": {
     "marked": "^17.0.4",

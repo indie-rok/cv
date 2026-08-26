@@ -65,6 +65,7 @@ jobs:
             **Download:**
             - [dev-rel.pdf](https://github.com/${{ github.repository }}/releases/latest/download/dev-rel.pdf)
             - [tech.pdf](https://github.com/${{ github.repository }}/releases/latest/download/tech.pdf)
+            - [anthropic.pdf](https://github.com/${{ github.repository }}/releases/latest/download/anthropic.pdf)
           files: dist/*.pdf
           make_latest: true
           prerelease: false
