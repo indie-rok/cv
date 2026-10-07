@@ -4,13 +4,13 @@
 
 Paris, France | [yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | [GitHub](https://github.com/indie-rok) | [Portfolio](https://emmanuelorozco.com/work) | Speaks: 🇺🇸 - 🇫🇷 - 🇪🇸
 
-## Professional Experience:
+## Professional Experience
 
 ### Leroy Merlin
 
 _Developer Advocate_
 
-January 2023 - Current
+January 2023 - Present
 
 **Project: Developer Experience**
 
@@ -33,10 +33,10 @@ January 2023 - Current
 
 - Conference talk: [Building with AI Agents](https://emmanuelorozco.com/slides/agents-talk)
 - Conference talk: [Whoops, I hacked my company — npm supply chain security](https://emmanuelorozco.com/slides/jfrog-talk)
-- Video Content Creation: [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
-- Blog post Creation: [Expand ChatGPT knowledge with your own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
-- Award Host - [InnerSource Awards 2024](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
-- Conference IS Summit [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
+- Video: [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
+- Blog post: [Expand ChatGPT knowledge with your own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
+- Award host: [InnerSource Awards 2024](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
+- Conference talk, InnerSource Summit 2023: [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
 
 ### Kibo University
 
@@ -45,8 +45,8 @@ _Faculty Professor_
 January 2023 - January 2024
 
 - Teaching weekly university-level classes about front-end development to 50 students
-- Front End for python devs course creation from scratch
-- Video production and creation of software engineering topics (react, typescript, next)
+- Creation of a front-end course for Python developers, from scratch
+- Video production on software engineering topics (React, TypeScript, Next.js)
 
 ### Partoo
 
@@ -65,7 +65,7 @@ _Lead Teacher Software Engineering_
 
 March 2021 - March 2022
 
-- Teaching full-stack software engineering curriculum to 15 people class
+- Teaching a full-stack software engineering curriculum to a class of 15
 - Led multiple in-person/online events to introduce the school's methodology
 - Coached other teachers to improve their technical/soft/pedagogical abilities
 
@@ -76,7 +76,7 @@ _Software Engineer_
 February 2020 - March 2021
 
 - Built new functionalities for mobile/desktop web applications
-- Monitored production releases to ensure application 99% application uptime (20 M visits/day)
+- Monitored production releases to ensure 99% application uptime (20M visits/day)
 - Paired with other engineers to improve the technical level
 
 ### Kapten
@@ -84,14 +84,15 @@ February 2020 - March 2021
 _Software Engineer_
 
 March 2019 - September 2019
+
 - Created highly scalable front-end/back-end services (React/Express/Mongo)
-- Developer training on in-house app architecture.
+- Developer training on in-house app architecture
 
 ### Crowdbotics
 
 _Software Engineer Consultant_
 
-Jun 2018 - Jan 2020
+June 2018 - January 2020
 
 - Fast MVP prototype and creation of different apps for multiple clients / technologies
 - Web3 Smart Contracts Development (ICO with Ethereum)
@@ -101,9 +102,9 @@ Jun 2018 - Jan 2020
 
 _Sr. Teacher & Web Developer_
 
-Jan 2017 - Jun 2018
+January 2017 - June 2018
 
-- Teaching JavaScript curricula to 100 people class
+- Teaching JavaScript curricula to a class of 100
 - Organized regular hackathons, meet-ups, and conferences for students
 - Coached junior teachers to improve their technical knowledge and teaching abilities
 
@@ -113,9 +114,9 @@ _Software Engineer_
 
 February 2013 - November 2016
 
-- Developed REST API for Riot Games global cup app.
-- Developed tailored CMS to handle different clients' content.
-- Developed PHP applications for clients in various industries such as schools, sport agencies, and mobile stores.
+- Developed a REST API for the Riot Games global cup app
+- Developed a tailored CMS to handle different clients' content
+- Developed PHP applications for clients in various industries such as schools, sport agencies, and mobile stores
 
 ## Projects
 
@@ -124,9 +125,9 @@ February 2013 - November 2016
 - Founded a Paris tech & social community, organizing weekly in-person events
 - Host of the [AI Builders Night](https://luma.com/be1ld1ai) series: recurring AI conferences and live-coding sessions on AI agents, LLM apps and agentic workflows (300+ RSVPs)
 - Give regular AI talks: [agent architectures](https://emmanuelorozco.com/slides/agents-talk), [loop engineering](https://emmanuelorozco.com/slides/loop-engineering), [building products with LLMs](https://emmanuelorozco.com/slides/marketing-talk)
-- Built the community's own AI agent tooling: autonomous agents that collect event analytics, contact venue owners, auto-post on Facebook, generate content drafts, and match attendees by interests.
-- Creation and execution and optimization of marketing campaign to scale [Instagram](https://www.instagram.com/holdmyclub_paris/) account (currently 1.1k Followers)
-- Creation and execution of sales funnel for increase revenue (currently 600 euros MRR)
+- Built the community's own AI agent tooling: autonomous agents that collect event analytics, contact venue owners, auto-post on Facebook, generate content drafts, and match attendees by interests
+- Creation, execution and optimization of marketing campaigns to grow the [Instagram](https://www.instagram.com/holdmyclub_paris/) account (currently 1.1k followers)
+- Creation and execution of a sales funnel to increase revenue (currently €600 MRR)
 
 ### [Side projects](https://emmanuelorozco.com/work)
 
@@ -136,7 +137,7 @@ February 2013 - November 2016
 - [Video Summarizer for YouTube](https://emmanuelorozco.com/work/video-summarizer): Chrome extension that summarizes any video with ChatGPT or Claude
 - [Oh My Pic](https://emmanuelorozco.com/work/ohmypic): street photo game for iPhone
 
-## Skills:
+## Skills
 
 - Ability to deconstruct and explain highly technical concepts for tech & non-technical audiences
 - AI engineering: LLM orchestration, AI agents, agentic workflows
@@ -146,8 +147,8 @@ February 2013 - November 2016
 - Creation of marketing plans and lead generation for technical B2C and B2B markets
 - Software Engineer (TypeScript, Python, Ruby, SQL, AWS)
 
-## Academic Background:
+## Academic Background
 
-### Instituto Politecnico Nacional
+### Instituto Politécnico Nacional
 
 Mexico City, Bachelor of Computer Science (2010 - 2014)
