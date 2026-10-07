@@ -2,7 +2,7 @@
 
 **Developer Advocate | AI Community Builder | Software Engineer**
 
-Paris, France | [yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | [GitHub](https://github.com/indie-rok) | Speaks: 🇺🇸 - 🇫🇷 - 🇪🇸
+Paris, France | [yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | [GitHub](https://github.com/indie-rok) | [Portfolio](https://emmanuelorozco.com/work) | Speaks: 🇺🇸 - 🇫🇷 - 🇪🇸
 
 ## Professional Experience:
 
@@ -14,16 +14,20 @@ January 2023 - Current
 
 **Project: Developer Experience**
 
-- Coordinate, organize and launch feedback campaigns with a community of ~5,000 developers to improve internal developer products
 - Creation of developer training content (video, docs, blog posts)
 - Developer training on different topics (TypeScript, AI, Public Speaking)
 - Review existing technical documentation and provide pedagogical feedback to make products easier to understand and adopt
 
 **Project: Developer Advocacy**
 
-- Organize online and in-person developer events: TechBubbles, [DevSummit](https://www.adeo.com/en/press/dev-summit/)
-- In-person event host of 500 people event [DevSummit](https://www.adeo.com/en/press/dev-summit/)
-- Attended external events ([Devoxx Paris](https://www.devoxx.fr/), [DevFest Lille](https://devfest.gdglille.org/)) to evangelize developers on the digital transformation of LM
+- Organize, host and market online and in-person developer events: [AI Builders Night](https://luma.com/ago7yoyi), [DevSummit](https://positivetech.adeo.com/adeo-dev-summit-2026/)
+- Attended external events ([Devoxx Paris](https://www.devoxx.fr/), [DevFest Lille](https://devfest.gdglille.org/)) to evangelize developers on the digital transformation of ADEO
+- Coordinate, organize and launch feedback campaigns with a community of ~5,000 developers to improve internal developer products
+
+**Project: [HelloBot](https://emmanuelorozco.com/work/hellobot)**
+
+- Built a help widget for internal developer tools (guided tours, news, feedback, trainings), now in 7 ADEO products
+- Cut tool onboarding from 20-30 minutes of training videos to 2-3 minutes inside the tool
 
 **DevRel resources:**
 
@@ -80,9 +84,7 @@ February 2020 - March 2021
 _Software Engineer_
 
 March 2019 - September 2019
-
-- Created highly scalable front-end/back-end services following the company's best practices (React/Express/Mongo)
-- Web3 Smart Contracts Development (ICO with Ethereum)
+- Created highly scalable front-end/back-end services (React/Express/Mongo)
 - Developer training on in-house app architecture.
 
 ### Crowdbotics
@@ -92,6 +94,7 @@ _Software Engineer Consultant_
 Jun 2018 - Jan 2020
 
 - Fast MVP prototype and creation of different apps for multiple clients / technologies
+- Web3 Smart Contracts Development (ICO with Ethereum)
 - Led development team for a blockchain app for ICO fundraising, a [DeFi app](https://constellationnetwork.io/) for asset exchange
 
 ### Laboratoria
@@ -118,18 +121,28 @@ February 2013 - November 2016
 
 ### [Hold My Club](https://holdmyclub.com/) | Founder & Community Organizer
 
-- Founded a Paris tech & social community, organizing weekly in-person events end to end
+- Founded a Paris tech & social community, organizing weekly in-person events
 - Host of the [AI Builders Night](https://luma.com/be1ld1ai) series: recurring AI conferences and live-coding sessions on AI agents, LLM apps and agentic workflows (300+ RSVPs)
 - Give regular AI talks: [agent architectures](https://emmanuelorozco.com/slides/agents-talk), [loop engineering](https://emmanuelorozco.com/slides/loop-engineering), [building products with LLMs](https://emmanuelorozco.com/slides/marketing-talk)
 - Built the community's own AI agent tooling: autonomous agents that collect event analytics, contact venue owners, auto-post on Facebook, generate content drafts, and match attendees by interests.
+- Creation and execution and optimization of marketing campaign to scale [Instagram](https://www.instagram.com/holdmyclub_paris/) account (currently 1.1k Followers)
+- Creation and execution of sales funnel for increase revenue (currently 600 euros MRR)
+
+### [Side projects](https://emmanuelorozco.com/work)
+
+- [Geometry Royale](https://emmanuelorozco.com/work/geometry-royale): arena shooter for iPhone and iPad, 1 to 4 players over Wi-Fi or Bluetooth
+- [Post Pilot](https://emmanuelorozco.com/work/postpilot): open-source tool that tests a Reddit launch post on a simulated subreddit of AI personas
+- [Focus Banana](https://emmanuelorozco.com/work/focusbanana): body doubling on video with a person or an AI buddy, plus a Chrome extension
+- [Video Summarizer for YouTube](https://emmanuelorozco.com/work/video-summarizer): Chrome extension that summarizes any video with ChatGPT or Claude
+- [Oh My Pic](https://emmanuelorozco.com/work/ohmypic): street photo game for iPhone
 
 ## Skills:
 
+- Ability to deconstruct and explain highly technical concepts for tech & non-technical audiences
 - AI engineering: LLM orchestration, AI agents, agentic workflows
 - Video content creation and production (Final Cut Pro, Photoshop)
 - Community creation and management, online and offline (Luma, MeetUp, Discord, Slack)
 - Excellent written and verbal communication skills in 3 languages (EN, FR, and ES)
-- Ability to deconstruct and explain highly technical concepts for tech & non-technical audiences
 - Creation of marketing plans and lead generation for technical B2C and B2B markets
 - Software Engineer (TypeScript, Python, Ruby, SQL, AWS)
 
