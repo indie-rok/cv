@@ -2,11 +2,12 @@
 
 **Developer Advocate | AI Community Builder | Software Engineer**
 
-Paris, France | [yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | [GitHub](https://github.com/indie-rok) | [Portfolio](https://emmanuelorozco.com/work) | Speaks: 🇺🇸 - 🇫🇷 - 🇪🇸
+Paris, France | [yo@emmanuelorozco.com](mailto:yo@emmanuelorozco.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-orozco/) | [GitHub](https://github.com/indie-rok) | [Portfolio](https://emmanuelorozco.com/work) 
+
 
 ## Professional Experience
 
-### Leroy Merlin
+### ADEO (Leroy Merlin)
 
 _Developer Advocate_
 
@@ -14,29 +15,28 @@ January 2023 - Present
 
 **Project: Developer Experience**
 
+- Build [HelloBot](https://emmanuelorozco.com/work/hellobot), an in-product help widget now in 7 ADEO products that cut developer onboarding from 20-30 minutes of training videos to 2-3 minutes
 - Creation of developer training content (video, docs, blog posts)
-- Developer training on different topics (TypeScript, AI, Public Speaking)
+- In-person developer training on different topics (AI, JavaScript, public speaking)
 - Review existing technical documentation and provide pedagogical feedback to make products easier to understand and adopt
 
 **Project: Developer Advocacy**
 
-- Organize, host and market online and in-person developer events: [AI Builders Night](https://luma.com/ago7yoyi), [DevSummit](https://positivetech.adeo.com/adeo-dev-summit-2026/)
-- Attended external events ([Devoxx Paris](https://www.devoxx.fr/), [DevFest Lille](https://devfest.gdglille.org/)) to evangelize developers on the digital transformation of ADEO
+- Organizer and host of online and in-person developer events: [DevSummit](https://positivetech.adeo.com/adeo-dev-summit-2026/) (3k attendees). [AI Builders Night](https://luma.com/be1ld1ai) (300 attendees).
+- Attended external events [Devoxx Paris](https://www.devoxx.fr/), [DevFest Lille](https://www.lillegrandpalais.com/evenement/devlille/) to evangelize developers on the digital transformation of ADEO
 - Coordinate, organize and launch feedback campaigns with a community of ~5,000 developers to improve internal developer products
-
-**Project: [HelloBot](https://emmanuelorozco.com/work/hellobot)**
-
-- Built a help widget for internal developer tools (guided tours, news, feedback, trainings), now in 7 ADEO products
-- Cut tool onboarding from 20-30 minutes of training videos to 2-3 minutes inside the tool
 
 **DevRel resources:**
 
-- Conference talk: [Building with AI Agents](https://emmanuelorozco.com/slides/agents-talk)
-- Conference talk: [Whoops, I hacked my company — npm supply chain security](https://emmanuelorozco.com/slides/jfrog-talk)
-- Video: [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
-- Blog post: [Expand ChatGPT knowledge with your own information with python](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
-- Award host: [InnerSource Awards 2024](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
-- Conference talk, InnerSource Summit 2023: [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
+- Conference talks:
+  - [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
+  - [How AI Agents Work](https://emmanuelorozco.com/slides/agents-talk)
+  - [Whoops, I hacked my company — npm supply chain security](https://emmanuelorozco.com/slides/jfrog-talk)
+- Video production:
+  - [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
+  - [Demo video for Open Source tool](https://www.youtube.com/watch?v=mS9qVPMdv6I)
+- Blog post: [Expand ChatGPT knowledge with your own information](https://emmanuelorozco.com/blog/expand-chatgpt-knowledge-with-your-own-information)
+- Event host: [InnerSource Awards 2023](https://youtu.be/-NIP3bnNTE8?si=0x4N9RzLsvtPapS4&t=1171)
 
 ### Kibo University
 
@@ -44,9 +44,9 @@ _Faculty Professor_
 
 January 2023 - January 2024
 
-- Teaching weekly university-level classes about front-end development to 50 students
+- Taught weekly university-level classes about software engineering to a class of 50 students
 - Creation of a front-end course for Python developers, from scratch
-- Video production on software engineering topics (React, TypeScript, Next.js)
+- Video production (tutorials) on software engineering topics (React, TypeScript, Next.js)
 
 ### Partoo
 
@@ -55,7 +55,7 @@ _Tech Lead_
 March 2022 - January 2023
 
 - Mentored a team of 3 people to develop new features on an existing app
-- Development of new features in Typescript / Python
+- Development of new features in TypeScript/Python
 - Taught seminars to improve technical knowledge of technical and non-technical people
 - Led technical interviews for selecting new developers in the team
 
@@ -85,7 +85,7 @@ _Software Engineer_
 
 March 2019 - September 2019
 
-- Created highly scalable front-end/back-end services (React/Express/Mongo)
+- Created highly scalable front-end/back-end services (React/Express/MongoDB)
 - Developer training on in-house app architecture
 
 ### Crowdbotics
@@ -95,8 +95,7 @@ _Software Engineer Consultant_
 June 2018 - January 2020
 
 - Fast MVP prototype and creation of different apps for multiple clients / technologies
-- Web3 Smart Contracts Development (ICO with Ethereum)
-- Led development team for a blockchain app for ICO fundraising, a [DeFi app](https://constellationnetwork.io/) for asset exchange
+- Led the development team for a blockchain app for ICO fundraising and a [DeFi app](https://constellationnetwork.io/) for asset exchange
 
 ### Laboratoria
 
@@ -116,36 +115,28 @@ February 2013 - November 2016
 
 - Developed a REST API for the Riot Games global cup app
 - Developed a tailored CMS to handle different clients' content
-- Developed PHP applications for clients in various industries such as schools, sport agencies, and mobile stores
+- Developed PHP applications for clients in various industries such as schools, sports agencies, and mobile stores
 
 ## Projects
 
 ### [Hold My Club](https://holdmyclub.com/) | Founder & Community Organizer
 
-- Founded a Paris tech & social community, organizing weekly in-person events
-- Host of the [AI Builders Night](https://luma.com/be1ld1ai) series: recurring AI conferences and live-coding sessions on AI agents, LLM apps and agentic workflows (300+ RSVPs)
-- Give regular AI talks: [agent architectures](https://emmanuelorozco.com/slides/agents-talk), [loop engineering](https://emmanuelorozco.com/slides/loop-engineering), [building products with LLMs](https://emmanuelorozco.com/slides/marketing-talk)
+- Founded a Paris tech & social [community](https://emmanuelorozco.com/work/holdmyclub), organizing weekly in-person events
+- Host of the [AI Builders Night](https://luma.com/be1ld1ai) meetup series: short talks and 1:1 collaboration rounds (300+ RSVPs)
+- Give regular AI talks: [loop engineering](https://emmanuelorozco.com/slides/loop-engineering), [automating community marketing with AI agents](https://emmanuelorozco.com/slides/marketing-talk)
 - Built the community's own AI agent tooling: autonomous agents that collect event analytics, contact venue owners, auto-post on Facebook, generate content drafts, and match attendees by interests
 - Creation, execution and optimization of marketing campaigns to grow the [Instagram](https://www.instagram.com/holdmyclub_paris/) account (currently 1.1k followers)
 - Creation and execution of a sales funnel to increase revenue (currently €600 MRR)
 
-### [Side projects](https://emmanuelorozco.com/work)
-
-- [Geometry Royale](https://emmanuelorozco.com/work/geometry-royale): arena shooter for iPhone and iPad, 1 to 4 players over Wi-Fi or Bluetooth
-- [Post Pilot](https://emmanuelorozco.com/work/postpilot): open-source tool that tests a Reddit launch post on a simulated subreddit of AI personas
-- [Focus Banana](https://emmanuelorozco.com/work/focusbanana): body doubling on video with a person or an AI buddy, plus a Chrome extension
-- [Video Summarizer for YouTube](https://emmanuelorozco.com/work/video-summarizer): Chrome extension that summarizes any video with ChatGPT or Claude
-- [Oh My Pic](https://emmanuelorozco.com/work/ohmypic): street photo game for iPhone
-
 ## Skills
 
-- Ability to deconstruct and explain highly technical concepts for tech & non-technical audiences
-- AI engineering: LLM orchestration, AI agents, agentic workflows
+- Ability to deconstruct and explain highly technical concepts for technical and non-technical audiences
+- AI engineering: development of AI agents and tool calling, MCP, RAG with embeddings
 - Video content creation and production (Final Cut Pro, Photoshop)
-- Community creation and management, online and offline (Luma, MeetUp, Discord, Slack)
-- Excellent written and verbal communication skills in 3 languages (EN, FR, and ES)
+- Community creation and management, online and offline (Luma, Meetup, Discord, Slack)
+- Excellent written and verbal communication skills (English, French, Spanish)
 - Creation of marketing plans and lead generation for technical B2C and B2B markets
-- Software Engineer (TypeScript, Python, Ruby, SQL, AWS)
+- Software Engineer (TypeScript, Python, Ruby, SQL, React, Svelte, Next.js, NestJS, React Native, Codex, Claude)
 
 ## Academic Background
 

@@ -76,6 +76,11 @@ const TEMPLATE = `<!DOCTYPE html>
       .cv {
         padding: 2rem 1.25rem;
       }
+      .download-pdf {
+        position: static;
+        display: inline-block;
+        margin-bottom: 1rem;
+      }
     }
 
     /* ---- Name / Header ---- */
