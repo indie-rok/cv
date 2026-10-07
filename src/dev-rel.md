@@ -125,8 +125,7 @@ February 2013 - November 2016
 - Host of the [AI Builders Night](https://luma.com/be1ld1ai) meetup series: short talks and 1:1 collaboration rounds (300+ RSVPs)
 - Give regular AI talks: [loop engineering](https://emmanuelorozco.com/slides/loop-engineering), [automating community marketing with AI agents](https://emmanuelorozco.com/slides/marketing-talk)
 - Built the community's own AI agent tooling: autonomous agents that collect event analytics, contact venue owners, auto-post on Facebook, generate content drafts, and match attendees by interests
-- Creation, execution and optimization of marketing campaigns to grow the [Instagram](https://www.instagram.com/holdmyclub_paris/) account (currently 1.1k followers)
-- Creation and execution of a sales funnel to increase revenue (currently €600 MRR)
+- Run marketing and sales end to end: built the funnel from [Instagram](https://www.instagram.com/holdmyclub_paris/) (1.1k followers) and email (+900 subscribers) to an intro call and payment, now at €600 MRR
 
 ## Skills
 
