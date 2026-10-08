@@ -16,6 +16,7 @@ January 2023 - Present
 **Project: Developer Experience**
 
 - Build [HelloBot](https://emmanuelorozco.com/work/hellobot), an in-product help widget now in 7 ADEO products that cut developer onboarding from 20-30 minutes of training videos to 2-3 minutes
+- Launch HelloBot with email and Slack campaigns to bring on its first users and product teams
 - Creation of developer training content (video, docs, blog posts)
 - In-person developer training on different topics (AI, JavaScript, public speaking)
 - Review existing technical documentation and provide pedagogical feedback to make products easier to understand and adopt
