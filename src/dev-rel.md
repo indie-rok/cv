@@ -31,7 +31,7 @@ January 2023 - Present
 - Conference talks:
   - [Implementing an Educational Program in your company](https://www.youtube.com/watch?v=kGQZFnGFf9o)
   - [How AI Agents Work](https://emmanuelorozco.com/slides/agents-talk)
-  - [Whoops, I hacked my company — npm supply chain security](https://emmanuelorozco.com/slides/jfrog-talk)
+  - [The Boring Stuff I Don't Do Anymore: AI agents at my startup](https://www.youtube.com/watch?v=v3Kl-SroRQo)
 - Video production:
   - [Advocacy for Open Source tool](https://www.youtube.com/watch?v=eJEEwRu_hgY)
   - [Demo video for Open Source tool](https://www.youtube.com/watch?v=mS9qVPMdv6I)
